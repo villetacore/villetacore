@@ -1,3 +1,6 @@
 Golang Rust developer
 
 GPG: BF1AF83882B91C50AA8EABEB37D1A9D486F02DA0
+
+BTC: bc1qgzl0pnehqmey0w3qten6maje2nurz304rj9fcv
+LTC: ltc1qs2twktvt64wrn26r9p5xtgj76963z0vxxszqn3
